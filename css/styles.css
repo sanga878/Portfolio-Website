@@ -67,9 +67,9 @@ hr {
 
 }
 
-.profile {
+#profile {
   padding: 50px 0 50px 0;
-  width: 30%;
+  width: 50%;
   margin: 0 auto 0 auto;
 }
 
@@ -177,6 +177,13 @@ hr {
   border-radius: 12px;
   margin: 10px 0 10px 0;
 }
+
+.button2:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #11999E;
+}
+
 .bottom-container{
   background-color: #11999E;
   margin: 0 auto 0 auto;
