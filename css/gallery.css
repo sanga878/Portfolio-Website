@@ -4,6 +4,12 @@
   padding: 0 4px;
 }
 
+.row2 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 600 4px;
+}
+
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
