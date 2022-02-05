@@ -7,7 +7,7 @@
 .row2 {
   display: flex;
   flex-wrap: wrap;
-  padding: 600 4px;
+  padding: 300 4px;
 }
 
 /* Create two equal columns that sits next to each other */
